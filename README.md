@@ -61,13 +61,23 @@
 </p>
 
 ---
+### 📊 GitHub Activity Graph
 
-### 🏆 Achievements & Stats
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=coddingjatin&theme=dracula" alt="GitHub Activity Graph">
+  </a>
+</p>
+
+---
+
+### 🏆 Achievements:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=coddingjatin&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
+### 📈 Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coddingjatin&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coddingjatin&layout=compact&theme=radical" alt="Top Languages"/>
@@ -82,17 +92,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Activity Graph
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=coddingjatin&theme=radical&hide_border=true" alt="GitHub Activity Graph">
-  </a>
-</p>
-
----
-
 ### 💡 Let's Collaborate!
 
 🚀 Have a project idea? Let's make it a reality. I'm always open to new ideas and collaboration opportunities. Feel free to connect with me!
