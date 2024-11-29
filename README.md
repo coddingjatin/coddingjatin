@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer, Looking to Collabrate and contribute on projects and solve real - life problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coddingjatin&label=Profile%20views&color=0e75b6&style=flat" alt="coddingjatin" /> </p>
+[![An image of @coddingjatin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coddingjatin)](https://holopin.io/@coddingjatin)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coddingjatin" alt="coddingjatin" /></a> </p>
 
