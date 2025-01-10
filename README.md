@@ -73,12 +73,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coddingjatin&theme=radical" alt="GitHub Streak"/>
-</p>
-
 ---
 ### 💡 Let's Collaborate!
 
