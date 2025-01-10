@@ -72,8 +72,6 @@
 </p>
 
 ---
-
----
 ### 💡 Let's Collaborate!
 
 🚀 Have a project idea? Let's make it a reality. I'm always open to new ideas and collaboration opportunities. Feel free to connect with me!
