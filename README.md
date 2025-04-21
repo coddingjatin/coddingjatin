@@ -14,7 +14,6 @@
     <img src="https://holopin.me/coddingjatin" alt="Holopin Badges">
   </a>
 </p>
-
 ---
 
 ### 🛠 About Me
