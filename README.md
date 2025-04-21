@@ -21,7 +21,7 @@
 
 - 🌱 Currently exploring **Backend Development, AI & ML Technologies**  
 - 👯 Excited to collaborate on **Front-End & Full-Stack Projects**  
-- 💡 Passionate about solving real-life problems through technology.  
+- 💡 Passionate about solving real-life problems through technology  
 - 🎮 Fun fact: I love exploring **Web Development, AIML Tools, and Games**  
 - 📫 How to reach me: **Jatinvish361@gmail.com**
 
