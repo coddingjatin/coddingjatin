@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=coddingjatin&theme=dracula" alt="GitHub Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=coddingjatin&theme=react" alt="GitHub Activity Graph">
   </a>
 </p>
 
@@ -67,8 +67,8 @@
 
 ### 📈 Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coddingjatin&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coddingjatin&layout=compact&theme=radical" alt="Top Languages"/>
+ <a href="https://github.com/coddingjatin"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=coddingjatin&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/coddingjatin"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 </p>
 
 ---
