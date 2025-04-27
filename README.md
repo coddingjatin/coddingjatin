@@ -67,7 +67,7 @@
 
 ### 📈 Stats:
 <p align="center">
- <a href="https://github.com/coddingjatin"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=coddingjatin&theme=dark&title_color=ff3068?"></a>
+ <a href="https://github.com/coddingjatin"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=coddingjatin&theme=dracula&title_color=ff3068?"></a>
  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=coddingjatin&theme=dracula" alt="GitHub Streak"></a>
 </p>
 
