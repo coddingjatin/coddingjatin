@@ -1,3 +1,6 @@
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋, I'm Jatin Vishwakarma</h1>
 <h3 align="center">Passionate Developer | Innovator | AI Enthusiast</h3>
 
@@ -5,7 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=coddingjatin&label=Profile%20views&color=0e75b6&style=flat" alt="coddingjatin" />
 </p>
 
----
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🎖 Holopin Badges
 
@@ -15,7 +20,9 @@
   </a>
 </p>
 
----
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠 About Me
 
@@ -24,8 +31,6 @@
 - 💡 Passionate about solving real-life problems through technology  
 - 🎮 Fun fact: I love exploring **Web Development, AIML Tools, and Games**  
 - 📫 How to reach me: **Jatinvish361@gmail.com**
-
----
 
 ### 🌐 Connect With Me
 
@@ -38,7 +43,9 @@
   </a>
 </p>
 
----
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 Technologies & Tools
 <p align="center">
@@ -48,7 +55,9 @@
 </p>
 
 
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 📊 GitHub Activity Graph
 
 <p align="center">
@@ -57,7 +66,9 @@
   </a>
 </p>
 
----
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🏆 Achievements:
 
@@ -71,12 +82,17 @@
  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=coddingjatin&theme=dracula" alt="GitHub Streak"></a>
 </p>
 
----
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 💡 Let's Collaborate!
 
 🚀 Have a project idea? Let's make it a reality. I'm always open to new ideas and collaboration opportunities. Feel free to connect with me!
 
----
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⚡ Fun Fact  
 💬 Challenge me in games, discuss AIML, or explore the endless possibilities in tech!
