@@ -73,13 +73,13 @@
 ### 🏆 Achievements:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coddingjatin&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=coddingjatin&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ### 📈 Stats:
 <p align="center">
- <a href="https://github.com/coddingjatin"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=coddingjatin&theme=dracula&title_color=ff3068?"></a>
- <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=coddingjatin&theme=dracula" alt="GitHub Streak"></a>
+ <a href="https://github.com/coddingjatin"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=coddingjatin&theme=dark&title_color=ff3068?"></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=coddingjatin&theme=bear" alt="GitHub Streak" /></a>
 </p>
 
 
