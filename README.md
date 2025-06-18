@@ -79,7 +79,7 @@
 ### 📈 Stats:
 <p align="center">
   <a href="https://github.com/coddingjatin">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=coddingjatin&theme=dark&title_color=ff3068"><br>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=coddingjatin&theme=dracula&title_color=ff3068"><br>
   </a>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
        alt="Mark streak" 
