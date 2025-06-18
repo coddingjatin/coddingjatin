@@ -20,6 +20,10 @@
   </a>
 </p>
 
+### 🎖 Developer Badges
+![image](https://github.com/user-attachments/assets/e479c567-d121-4be8-b532-e60dc5faa82e)
+
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
