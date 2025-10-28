@@ -82,15 +82,9 @@
 ### 📈 Stats:
 <p align="center">
   <a href="https://github.com/coddingjatin">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=coddingjatin&show_icons=true&theme=radical&title_color=ff3068"><br>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=coddingjatin&show_icons=true&theme=dracula&title_color=ff3068"><br>
   </a>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-       alt="Mark streak" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=coddingjatin&theme=dark&hide_border=false" />
-</p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💡 Let's Collaborate!
 
