@@ -84,7 +84,12 @@
   <a href="https://github.com/coddingjatin">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=coddingjatin&show_icons=true&theme=dracula&title_color=ff3068"><br>
   </a>
+<!-- Most used languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coddingjatin&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
+</details>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💡 Let's Collaborate!
 
