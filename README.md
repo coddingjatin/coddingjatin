@@ -83,11 +83,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=coddingjatin&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
-### 📈 Stats:
 <p align="center">
-  <a href="https://github.com/coddingjatin">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=coddingjatin&show_icons=true&theme=dark&title_color=ff3068"><br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=coddingjatin&theme=dark" alt="GitHub Streak" />
   </a>
+</p>
+
+
+### 📈 Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coddingjatin)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Most used languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coddingjatin&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
 </details>
