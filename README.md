@@ -19,6 +19,8 @@
   </a>
 </p>
 
+### 🎖 Leetcode Badges
+<img width="2000" height="600" alt="Navy Geometric Technology LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/5624c13d-25a5-492b-87d6-b8373f715beb" />
 
 ### 🎖 Developer Badges
 ![image](https://github.com/user-attachments/assets/e479c567-d121-4be8-b532-e60dc5faa82e)
