@@ -19,8 +19,6 @@
   </a>
 </p>
 
-### 🎖 Leetcode Badges
-<img width="2000" height="600" alt="Navy Geometric Technology LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/5624c13d-25a5-492b-87d6-b8373f715beb" />
 
 ### 🎖 Developer Badges
 ![image](https://github.com/user-attachments/assets/e479c567-d121-4be8-b532-e60dc5faa82e)
@@ -96,13 +94,35 @@
 
 
 ### 📈 Stats:
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=coddingjatin)](https://github.com/LordDashMe/github-contribution-stats/)
+<p align="center">
+  <a href="https://github.com/LordDashMe/github-contribution-stats/">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=coddingjatin" alt="Contribution Stats" />
+  </a>
+</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💡 Let's Collaborate!
+<div align="center">
+
+<img width="850" alt="Programmer"
+src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 Let's Collaborate!
 
 🚀 Have a project idea? Let's make it a reality. I'm always open to new ideas and collaboration opportunities. Feel free to connect with me!
 
