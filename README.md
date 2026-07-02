@@ -82,13 +82,11 @@
 
 ### 🏆 Achievements:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coddingjatin&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
+
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=coddingjatin&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=coddingjatin&theme=highcontrast" alt="GitHub Streak" />
   </a>
 </p>
 
