@@ -61,7 +61,7 @@
 ### 🚀 Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,py,flask,java,r,html,js,sass,bootstrap,vim,react,vue,tailwind,npm,nextjs,mysql,mongodb,firebase,netlify,github,pytorch,postman,opencv,sklearn,tensorflow,vscode,devto,figma&perline=6" />
+   <img src="https://skillicons.dev/icons?i=c,cpp,py,flask,java,ts,r,html,css,js,react,nextjs,nodejs,express,tailwind,mysql,mongodb,firebase,github,pytorch,tensorflow,opencv,sklearn,postman,vscode,figma,git,linux,docker,npm&perline=6" />
   </a>
 </p>
 
