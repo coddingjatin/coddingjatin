@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=coddingjatin&theme=react-dark" alt="GitHub Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=coddingjatin&theme=github-compact" alt="GitHub Activity Graph">
   </a>
 </p>
 
