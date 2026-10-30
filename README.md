@@ -18,7 +18,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🎖 Holopin Badges
+### 🎖 Holopin & Hacktoberfest Badges
 
 <p align="center">
   <a href="https://holopin.io/@coddingjatin">
@@ -26,6 +26,9 @@
   </a>
 </p>
 
+<p align="center">
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/e2809f63-4b54-484f-8f8b-1d4762dfdfde" />
+</p>
 
 ### 🎖 Developer Badges
 <img width="1584" height="396" alt="Black Elegant Modern Personal LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/16068d09-5749-45fc-ad6c-870b7257ffc1" />
